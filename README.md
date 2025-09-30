@@ -3,7 +3,7 @@
 A web application that fetches and displays GitHub user profiles using AJAX.
 
 ## Demo
-You can see it in the screenshots folder.
+You can see it in the gitHubUsere-gif folder.
 
 ## Features
 - Fetch user data from GitHub using AJAX
